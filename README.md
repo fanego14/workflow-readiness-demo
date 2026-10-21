@@ -1,6 +1,6 @@
 # workflow-readiness-demo
 A Python/FastAPI portfolio demonstration that converts structured onboarding information into a PDF report using synthetic data
-# Business Workflow Assessment — Portfolio Demonstration
+# Business Workflow Assessment. Portfolio Demonstration
 
 I developed the original workflow after identifying a recurring business problem through my professional experience: organizations often need help turning operational information into clear, actionable next steps to limit business-related exposures.
 
