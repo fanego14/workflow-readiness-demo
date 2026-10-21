@@ -9,3 +9,5 @@ The project was designed to ideate what it would look like to develop a lead-gen
 This repository contains a sanitized demonstration of the document-generation component. It uses fictional information and excludes the original business identity, proprietary assessment methodology, and production configuration. The broader workflow connected Tally, Make, a Railway-hosted API, and Postmark; those external configurations are not included here.
 
 The original workflow completed end-to-end testing before implementation was paused. It is not currently presented as a live production service. This example demonstrates my approach to business requirements, workflow integration, troubleshooting, and customer-facing output.
+
+[View the sample report](samples/demo-report.pdf)
