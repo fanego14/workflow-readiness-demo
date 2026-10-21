@@ -10,4 +10,4 @@ This repository contains a sanitized demonstration of the document-generation co
 
 The original workflow completed end-to-end testing before implementation was paused. It is not currently presented as a live production service. This example demonstrates my approach to business requirements, workflow integration, troubleshooting, and customer-facing output.
 
-[View the sample report](samples/demo-report.pdf)
+[View the sample report](Samples/demo-report.pdf)
