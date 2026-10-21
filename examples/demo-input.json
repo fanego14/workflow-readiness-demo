@@ -1,0 +1,24 @@
+{
+  "business": "Example Services",
+  "contact": "Demo User",
+  "email": "demo@example.com",
+  "report_date": "2026-10-21",
+  "sections": {
+    "process_ownership": {
+      "status": "Ready",
+      "explanation": "Fictional example: a sample coordinator is assigned to guide onboarding."
+    },
+    "data_preparation": {
+      "status": "Needs attention",
+      "explanation": "Fictional example: a sample data file still needs a formatting review."
+    },
+    "system_access": {
+      "status": "Not assessed",
+      "explanation": "Fictional example: access details have not been reviewed."
+    },
+    "training_readiness": {
+      "status": "Needs attention",
+      "explanation": "Fictional example: sample training times are still being coordinated."
+    }
+  }
+}
